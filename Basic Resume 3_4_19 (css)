@@ -1,0 +1,86 @@
+div.container {
+  height:1200px;
+  width:100%;
+  max-width: 1200px;
+  margin:auto;
+  background:#ffffff;
+  padding-top: 1px;
+  padding-left: 25px;
+  padding-rignt: 100px;
+  padding-bottom: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: 444444;
+  font-size: 1em;
+}
+
+h1.name{
+  text-transform: uppercase;
+  text-align: center;
+  color: #33485e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  border-style: 1px solid;
+  border-color:##33485e
+  width:60%;
+  margin: auto;
+  min-width: 300px;
+}
+
+h1.title{
+  text-transform: uppercase;
+  text-align: center;
+  color: #33485e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  font-weight:400px;
+}
+
+div.sectionHeader {
+  width: 550px;
+  height: 18px;
+  background: #33485e;
+  color: #ffffff;
+  font-weight:400px;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  min-width: 300px;
+  width:70%;
+}
+
+div.jobTitle{
+  font-size: 1.5em;
+  font-weight: 600px;
+}
+
+div.orginization{
+  font-size: 1.25em;
+}
+
+div.dates {
+  font-style: italic;
+  font-weight:400px;
+  font-siz: 1em;
+  margin-top: 2px;
+}
+
+p.description{
+  font-size:1.5px;
+  margin-top: 10px;
+}
+li.menu {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  display: inline;
+  text-align: center;
+}
+li.degrees{
+  margin-top: 5px;
+  font-size: 1.5px;
+}
+li.do{
+  margin-top: 5px;
+  font-size: 1.5px;
+}
